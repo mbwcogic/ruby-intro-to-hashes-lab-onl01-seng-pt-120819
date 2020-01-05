@@ -18,7 +18,7 @@ def monopoly_with_second_tier
 	 :railroads => {
 	   :pieces => 4, 
 	 }
-	 :name => 
+	 :name => {}
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
   }
 end
